@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Parcial3/1.0.0": {
+        "dependencies": {
+          "LogicaIterador": "1.0.0"
+        },
+        "runtime": {
+          "Parcial3.dll": {}
+        }
+      },
+      "LogicaIterador/1.0.0": {
+        "runtime": {
+          "LogicaIterador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaIterador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

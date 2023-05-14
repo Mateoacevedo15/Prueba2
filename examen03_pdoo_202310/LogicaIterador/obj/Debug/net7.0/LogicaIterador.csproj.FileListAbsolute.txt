@@ -1,0 +1,24 @@
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.AssemblyInfo.cs
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Parcial3\LogicaIterador\bin\Debug\net7.0\LogicaIterador.deps.json
+C:\Users\123\source\repos\Parcial3\LogicaIterador\bin\Debug\net7.0\LogicaIterador.dll
+C:\Users\123\source\repos\Parcial3\LogicaIterador\bin\Debug\net7.0\LogicaIterador.pdb
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.dll
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\refint\LogicaIterador.dll
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\LogicaIterador.pdb
+C:\Users\123\source\repos\Parcial3\LogicaIterador\obj\Debug\net7.0\ref\LogicaIterador.dll
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\bin\Debug\net7.0\LogicaIterador.deps.json
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\bin\Debug\net7.0\LogicaIterador.dll
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\bin\Debug\net7.0\LogicaIterador.pdb
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.csproj.AssemblyReference.cache
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.GeneratedMSBuildEditorConfig.editorconfig
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.AssemblyInfoInputs.cache
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.AssemblyInfo.cs
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.csproj.CoreCompileInputs.cache
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.dll
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\refint\LogicaIterador.dll
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\LogicaIterador.pdb
+D:\CUENTA DE USUARIO\Escritorio\Parcial3.0\examen03_pdoo_202310\LogicaIterador\obj\Debug\net7.0\ref\LogicaIterador.dll
